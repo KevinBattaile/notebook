@@ -1,0 +1,4 @@
+NAME=notebook
+USER=softioc
+PORT=4100
+HOST=xf19id1-ws3
